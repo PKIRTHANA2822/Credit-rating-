@@ -4,7 +4,7 @@
 ![credit-score-gauge-concept-vector-illustration_185038-667](https://github.com/user-attachments/assets/3631fe5d-0407-4148-bca4-4314a00f5707)
 
 
-Tools Used 🛠: Python, Pandas, Scikit-learn, SMOTE, XGBoost, Seaborn, Matplotlib, StatsModels
+Tools Used 🛠: Python, Numpy, Pandas, Scikit-learn, SMOTE, XGBoost, Seaborn, Matplotlib, StatsModels
 
 ## 🎯 Objective
 The goal is to classify customers into Good or Bad credit risk categories using machine learning models trained on the German Credit dataset. This is a classic real-world problem often encountered by financial institutions during loan approvals and credit assessments.
